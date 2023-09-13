@@ -43,6 +43,10 @@ address {
   fill: #3b5998;
 }
 
+.github:hover svg {
+  fill: #171515;
+}
+
 .twitter:hover svg {
   fill: #55acee;
 }

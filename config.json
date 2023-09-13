@@ -1536,6 +1536,20 @@
             ]
         },
         {
+            "name": "socialGithub",
+            "label": "Github",
+            "group": "Footer",
+            "placeholder": "Please enter your Github profile URL",
+            "value": "",
+            "type": "text",
+            "dependencies": [
+                {
+                    "field": "socialButtons",
+                    "value": "true"
+                }
+            ]
+        },
+        {
             "name": "socialTwitter",
             "label": "Twitter",
             "group": "Footer",
